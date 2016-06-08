@@ -1,7 +1,7 @@
 #!/bin/bash
 export OS_USERNAME=admin
 export OS_TENANT_NAME=admin
-export OS_PASSWORD=e611874419c2c5f2b85ba12106d343bd
+export OS_PASSWORD=PasswordQwerty
 export OS_AUTH_URL=http://177.93.110.13:35357/v2.0/
 export PS1='[\u@\h \W(openstack_admin)]\$ '
 
